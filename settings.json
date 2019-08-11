@@ -1,0 +1,31 @@
+{
+  "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3",
+  "editor.tokenColorCustomizations": {
+    "comments": "#FFA500"
+  },
+  "workbench.colorTheme": "One Dark Pro Vivid",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+
+  "telemetry.enableTelemetry": false,
+  "editor.minimap.enabled": false,
+  "workbench.startupEditor": "none",
+  "workbench.fontAliasing": "auto",
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.editor.enablePreview": false,
+  "window.zoomLevel": 2,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "liveServer.settings.port": 5501,
+  "python.jediEnabled": false,
+  "files.maxMemoryForLargeFilesMB": 14000,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.copyOnSelection": true,
+  "explorer.confirmDelete": false
+}    
